@@ -6,13 +6,13 @@ import java.util.Scanner;
 public class GradeAverage {
 
 	public static void main(String[] args) {
-  //Değişkenleri oluştur
+ 
   int mat, fizik, kimya, turkce, tarih, muzik
   
-  //Scanner sınıfı tanımladık
+  
   Scanner inp = new Scanner(System.in);
   
-  //Kullanıcıdan değerleri al
+  
   Systemoutprint("Matematik Notunuz: ");
 		mat=inp.nextInt()
     Sytem.out.print(mat);
